@@ -1,0 +1,12 @@
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.csprojAssemblyReference.cache
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.csproj.GenerateResource.cache
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.csproj.CoreCompileInputs.cache
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.Form1.resources
+D:\GitHub\sampleblockchain1\testProject\testProject\bin\Debug\testProject.exe.config
+D:\GitHub\sampleblockchain1\testProject\testProject\bin\Debug\testProject.exe
+D:\GitHub\sampleblockchain1\testProject\testProject\bin\Debug\testProject.pdb
+D:\GitHub\sampleblockchain1\testProject\testProject\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\sampleblockchain1\testProject\testProject\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.csproj.CopyComplete
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.exe
+D:\GitHub\sampleblockchain1\testProject\testProject\obj\Debug\testProject.pdb
